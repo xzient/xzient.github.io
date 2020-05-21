@@ -1,0 +1,21 @@
+{
+  "name.label": "Xavier Zientarski",
+  "title.label": "Developpeur en AI et TALN",
+  "role.label": "Intelligence artificielle, traitement automatique du langage naturel et  linguistique",
+  "roledescription.label": "Je suis un linguiste computationnel intéressé par la protection de l’environnement, la préservation des langues et l’intelligence artificielle.",
+  "aboutmetext1.label": "Bonjour! Je m’appelle Xavier. Je suis un linguiste computationnel. Alors, j’ai de l’expérience en linguistique et informatique. J’ai des baccalauréats en linguistique appliquée et informatique de l’Université du Maryland aux É.-U. Je suis présentement un étudiant et je fais une maîtrise en informatique avec une approche en intelligence artificielle à l’Université Laval à Québec. ",
+  "aboutmetext2.label": "Pour ce qui concerne l’informatique, je programme souvent avec les langages Java et Python. Pour Python, j’ai travaillé avec les bibliothèques telles comme Pandas, Pytorch, et NLTK . Pour le développement frontal, j’ai réalisé quelques applications Android en utilisant Android Studio. Je suis aussi attiré par les langages fonctionnels. Pendant mes études de baccalauréat, j’ai eu l’opportunité d’apprendre OCaml, ce qui m’a aidé à apprécier la programmation fonctionnelle.",
+  "aboutmetext3.label": "Pour ce qui concerne la linguistique, j’ai pu étudier et décortiquer la grammaires de deux langues mayas : l’ixil et le kaqchikel. J’ai aussi travaille avec la langue géorgienne pendant deux ans. Ce qui m’a emmené à écrire un article à propos de l’accent lexical géorgien. J’ai suis attiré par la préservation des langues amérindiennes. Je suis actuellement à la recherche des projets liés aux langues inuits ou les langues dans les Premières Nations aux Canada.",
+  "aboutmetext4.label": "Quand je travaille pas, j’ai une vie consciente des affaires environnementales. Je fais de mon mieux pour réduire mon empreinte écologique. J’adore amorcer des petits projets liés à la préservation de l’environnement, la permaculture, la vie zéro-déchet, le minimalisme et le véganisme. Je suis ce mode de vie en respectant ceux qui ont des modes de vie et idéaux complètement différents aux miens. On est tous ensemble pour contribuer dans le mondes des manières distinctes.",
+  "home.label": "ACCUEIL",
+  "about.label": "Qui suis-je?",
+  "skills.label": "COMPÉTENCES",
+  "works.label": "PORTFOLIO",
+  "contact.label": "COORDONNÉES",
+  "contactdetails.label": "Coordonnées",
+  "aboutme.label": "Qui suis-je?",
+  "skype.label": "Skype : xavier.zientarski",
+  "address.label": "Montréal, Canada",
+  "skillstext.label": "De plus des compétences ci-dessous, j’ai déjà utilisé R et SQL pour des projets de recherche. Je connais aussi LaTeX que j’utilise quand je dois rédiger des rapports pour l’université. Finalement, j’ai travaillé avec Praat et Elan pour l’analyse phonologique et linguistique.",
+  "portfolio.label": "Jetez un coup d'œil à mes projets!"
+}

@@ -1,0 +1,21 @@
+{
+  "name.label": "Xavier Zientarski Capriles",
+  "title.label": "Ingeniero en IA y PLN",
+  "role.label": "Inteligencia Artificial, Procesamiento de Lenguajes Naturales y Linguística",
+  "roledescription.label": "Soy un linguística computacional que se preocupa por el medio ambiente, la inteligencia artificial y la preservación de idiomas.",
+  "aboutmetext1.label": "¡Hola! Me llamo Xavier. Soy un boliviano que tiene experiencia en lingüística e informática. Tengo licenciaturas en lingüística aplicada e informática. Actualmente estoy en el proceso de conseguir una maestría en informática con enfoque en inteligencia artificial.",
+  "aboutmetext2.label": "Del lado informático. He trabajado bastante con Java y Python. En Python tengo experiencia usando las bibliotecas tales como Pandas, PyTorch,  NLTK. Tengo experiencia creando interfaces de usuario a través de aplicaciones en Android Studio. Tengo un interés por los lenguajes funcionales. Durante mis estudios en licenciatura, tuve la oportunidad de aprender Ocaml. Estuve fascinado por la manera diferente de implementar en este lenguaje. ",
+  "aboutmetext3.label": "Del lado lingüístico. Tengo experiencia analizando e investigando dos idiomas mayas:  ixil y kaqchikel. También trabajé por dos años con el idioma georgiano del cual pude publicar un articulo relacionado con el acento léxico en georgiano. Tengo un interés por la preservación de idiomas amerindios. Actualmente estoy en la búsqueda de proyectos relacionados con idiomas inuit o idiomas de Primeras Naciones en Canadá.  ",
+  "aboutmetext4.label": "En mi vida cotidiana, mantengo una vida consciente al medio ambiente tratando de reducir mi huella de carbono lo más posible. Me gusta emprender proyectos relacionados al cuidado del medio ambiente, a la permacultura, al minimalismo, a la vida cero basura y al veganismo. Todo esto con respeto mutuo y equidad social a aquellas personas que no tienen los mismos ideales o estilos de vida similares. Estamos todos juntos acá.",
+  "home.label": "PORTADA",
+  "about.label": "¿Quién soy?",
+  "skills.label": "CAPACIDADES",
+  "works.label": "PORTAFOLIO",
+  "contact.label": "CONTACTO",
+  "contactdetails.label": "Información de Contacto",
+  "aboutme.label": "¿Quién soy?",
+  "skype.label": "Skype: xavier.zientarski",
+  "address.label": "Montreal, Canadá",
+  "skillstext.label": "A parte de las capacidades mostradas debajo, tengo experiencia con R, SQL de los cuales trabajé haciendo investigación. También sé LaTeX, con el cual escribo bastantes reportes y ensayos en la universidad. Por último, tengo experiencia usando Praat y Elan para análisis fonológico en lingüística.",
+  "portfolio.label": "¡Vea un par de proyectos míos!"
+}
