@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xzient.github.io/",
+  "homepage": "//github.com/xzient/xzient.github.io.git",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.6.0",
