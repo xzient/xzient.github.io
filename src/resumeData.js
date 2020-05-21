@@ -8,7 +8,7 @@ let resumeData = {
   linkedinId: "xavier-zientarski",
   skypeid: "xavier.zientaarski",
   roleDescription:
-    "I'm a computational linguists who cares about the environment, language preservation, and artificial intelligence.",
+    "I'm a computational linguist who cares about the environment, language preservation, and artificial intelligence.",
   socialLinks: [
     {
       name: "linkedin",
@@ -32,13 +32,13 @@ let resumeData = {
     },
   ],
   aboutme1:
-    "Hello. Mi name is Xavier. After completing my bachelor’s degrees in computer science and applied linguistics at the University of Maryland, I have decided to pursue a master’s degree in Computer Science with a focus in AI at Laval University in Quebec City. ",
+    "Hello. My name is Xavier. After completing my bachelor’s degrees in computer science and applied linguistics at the University of Maryland, I have decided to pursue a master’s degree in Computer Science with a focus in AI at Laval University in Quebec City.",
   aboutme2:
     "When it come to computer science, I have mainly worked with Java and Python. Within Python, I have used different libraries such as Pandas, PyTorch, and NLTK. I have certainly used other libraries for computer vision and for data analysis like Pyplot. I have done both front end and back end programming. For front end, I have mostly focused on creating simple Android apps with Android Studio. I also have an interest for functional languages. While studying at Maryland, I was exposed to Ocaml, which really helped me admire functional programming.",
   aboutme3:
     "For Linguistics. I have worked with two Mayan languages: Ixil and Kaqchikel. I have worked on Georgian for two years. This work led me to write a research paper on Georgian lexical stress. I have a big interest for the preservation of Amerindian languages. Currently, I am looking projects related to Inuit language or First Nation languages in Canada.",
   aboutme4:
-    "In my everyday life, I keep a environmentally conscious life. I do my best to reduce my carbon footprint as I enjoy embarking on new projects related to environment preservation. I am also interested in permaculture, minimalism, zero waste lifestyle, and veganism. This is a life style that is suited to my ideals. For this reason, I treat people with different ideals and lifestyles with the upmost respect and equality. Not everyone has the same life priorities, and I am here to learn from others as I am to contribute with the little knowledge I have to build a better world.  ",
+    "In my everyday life, I keep an environmentally conscious life. I do my best to reduce my carbon footprint as I enjoy embarking on new projects related to environment preservation. I am also interested in permaculture, minimalism, zero waste lifestyle, and veganism. This is a life style that is suited to my ideals. For this reason, I treat people with different ideals and lifestyles with the upmost respect and equality. Not everyone has the same life priorities, and I am here to learn from others as I am to contribute with the little knowledge I have to build a better world.",
   education: [
     {
       UniversityName: "The LNM Insitute of Information Technology",
