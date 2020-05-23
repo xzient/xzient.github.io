@@ -5,8 +5,11 @@
   "homepage": "https://xzient.github.io/",
   "dependencies": {
     "gh-pages": "^2.2.0",
+    "i18next": "^19.4.4",
+    "i18next-xhr-backend": "^3.2.2",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
+    "react-i18next": "^11.5.0",
     "react-scripts": "^3.4.1"
   },
   "scripts": {

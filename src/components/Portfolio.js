@@ -1,4 +1,11 @@
 import React, { Component } from "react";
+import { useTranslation } from "react-i18next";
+
+const Portfolio = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("portfolio.label")}</div>;
+};
+
 export default class Porfolio extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -6,7 +13,9 @@ export default class Porfolio extends Component {
       <section id="portfolio">
         <div className="row">
           <div className="twelve columns collapsed">
-            <h1>Check out some of my works!</h1>
+            <h1>
+              <Portfolio />
+            </h1>
             <div
               id="portfolio-wrapper"
               className="bgrid-quarters s-bgrid-thirds cf"
