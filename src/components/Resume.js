@@ -1,5 +1,12 @@
 import React, { Component } from "react";
 
+import { useTranslation } from "react-i18next";
+
+const Skills = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("skills.label")}</div>;
+};
+
 export default class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -65,7 +72,9 @@ export default class Resume extends Component {
         <div className="row skill">
           <div className="three columns header-col">
             <h1>
-              <span>Skills</span>
+              <span>
+                <Skills />
+              </span>
             </h1>
           </div>
 

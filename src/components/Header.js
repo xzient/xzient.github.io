@@ -1,4 +1,29 @@
 import React, { Component } from "react";
+import LanguageSelector from "./LanguageSelector";
+
+import { useTranslation } from "react-i18next";
+
+const Home = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("home.label")}</div>;
+};
+const Skills = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("skills.label")}</div>;
+};
+const About = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("about.label")}</div>;
+};
+const Works = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("works.label")}</div>;
+};
+const Contact = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("contact.label")}</div>;
+};
+
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -16,33 +41,34 @@ export default class Header extends Component {
             <ul id="nav" className="nav">
               <li className="current">
                 <a className="smoothscroll" href="#home">
-                  Home
+                  <Home />
                 </a>
               </li>
               <li>
                 <a className="smoothscroll" href="#about">
-                  About
+                  <About />
                 </a>
               </li>
               <li>
                 <a className="smoothscroll" href="#resume">
-                  Skills
+                  <Skills />
                 </a>
               </li>
-
-              {/*
-                
-                <li>
+              {/*<li>
                 <a className="smoothscroll" href="#portfolio">
-                  Works
+                  <Works />
                 </a>
-              </li>
-              */}
+              </li>*/}
 
               <li>
                 <a className="smoothscroll" href="#contact">
-                  Contact
+                  <Contact />
                 </a>
+              </li>
+            </ul>
+            <ul id="nav2">
+              <li>
+                <LanguageSelector />
               </li>
             </ul>
           </nav>

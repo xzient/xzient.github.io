@@ -1,4 +1,11 @@
 import React, { Component } from "react";
+import { useTranslation } from "react-i18next";
+
+const ContactDetails = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("contactdetails.label")}</div>;
+};
+
 export default class ContactUs extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -6,7 +13,9 @@ export default class ContactUs extends Component {
       <section id="contact">
         <div className="row section-head">
           <div className="ten columns">
-            <h3 className="lead">Contact Details</h3>
+            <h3 className="lead">
+              <ContactDetails />
+            </h3>
           </div>
         </div>
         <div className="row">

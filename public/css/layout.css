@@ -28,7 +28,7 @@ body {
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
- /* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ */
 
 header {
   position: relative;
@@ -134,7 +134,7 @@ header .scrolldown a:hover {
 }
 
 /* primary navigation
- --------------------------------------------------------------------- */
+--------------------------------------------------------------------- */
 #nav-wrap ul,
 #nav-wrap li,
 #navbar-container,
@@ -167,6 +167,7 @@ header .scrolldown a:hover {
 }
 
 ul#nav {
+  position: absolute;
   min-height: 48px;
   width: 80%;
   padding-left: 20%;
@@ -224,7 +225,7 @@ ul#nav li.current a {
 
 /* ------------------------------------------------------------------ */
 /* c. About Section
- /* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ */
 
 #about {
   background: #2b2b2b;
@@ -282,7 +283,7 @@ ul#nav li.current a {
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
- /* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ */
 
 #resume {
   background: rgb(215, 228, 225);
@@ -343,7 +344,7 @@ ul#nav li.current a {
 
 /*----------------------------------------------*/
 /*	Skill Bars
- /*----------------------------------------------*/
+/*----------------------------------------------*/
 
 .bars {
   width: 95%;
@@ -540,7 +541,7 @@ ul#nav li.current a {
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
- /* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ */
 
 #portfolio {
   background: #ebeeee;
@@ -698,7 +699,7 @@ ul#nav li.current a {
 }
 
 /* fadein/fadeout effect for modal popup
- /* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ */
 
 /* content at start */
 .mfp-fade.mfp-wrap .mfp-content .popup-modal {
@@ -720,7 +721,7 @@ ul#nav li.current a {
 
 /* ------------------------------------------------------------------ */
 /* f. Call To Action Section
- /* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ */
 
 #call-to-action {
   background: #212121;
@@ -762,11 +763,11 @@ ul#nav li.current a {
   font-size: 17px;
 }
 /*#
- call-to-action .button {
-    color:#fff;
-    background: #0D0D0D;
- }
- */
+call-to-action .button {
+	color:#fff;
+   background: #0D0D0D;
+}
+*/
 #call-to-action .button:hover,
 #call-to-action .button:active {
   background: #ffffff;
@@ -778,8 +779,8 @@ ul#nav li.current a {
 }
 
 /* ------------------------------------------------------------------
- /* g. Testimonials
- /* ------------------------------------------------------------------ */
+/* g. Testimonials
+/* ------------------------------------------------------------------ */
 
 #testimonials {
   background: #1f1f1f url(../images/uyuni.jpeg) no-repeat center center;
@@ -853,7 +854,7 @@ ul#nav li.current a {
 }
 
 /* Flex Slider
- /* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ */
 
 /* Reset */
 .flexslider a:active,
@@ -909,7 +910,7 @@ ul#nav li.current a {
 
 /* No JavaScript Fallback */
 /* If you are not using another script, such as Modernizr, make sure you
-  * include js that eliminates this class on page load */
+ * include js that eliminates this class on page load */
 .no-js .slides > li:first-child {
   display: block;
 }
@@ -962,7 +963,7 @@ ul#nav li.current a {
 
 /* ------------------------------------------------------------------ */
 /* h. Contact Section
- /* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ */
 
 #contact {
   background: #191919;
@@ -1119,7 +1120,7 @@ ul#nav li.current a {
 
 /* ------------------------------------------------------------------ */
 /* i. Footer
- /* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ */
 
 footer {
   padding-top: 48px;
@@ -1214,18 +1215,18 @@ footer .social-links li:first-child {
 /*LANG*/
 
 /*
-   Hide radio button (the round disc)
-   we will use just the label to create pushbutton effect
- */
+  Hide radio button (the round disc)
+  we will use just the label to create pushbutton effect
+*/
 input[type="radio"] {
   display: none;
   margin: 10px;
 }
 
 /*
- Change the look'n'feel of labels (which are adjacent to radiobuttons).
- Add some margin, padding to label
- */
+Change the look'n'feel of labels (which are adjacent to radiobuttons).
+Add some margin, padding to label
+*/
 input[type="radio"] + label {
   display: inline-block;
   margin: 2px;
@@ -1234,9 +1235,9 @@ input[type="radio"] + label {
   background-color: transparent;
 }
 /*
- Change background color for label next to checked radio button
- to make it look like highlighted button
- */
+Change background color for label next to checked radio button
+to make it look like highlighted button
+*/
 input[type="radio"]:checked + label {
   background-image: none;
   color: #11abb0;
