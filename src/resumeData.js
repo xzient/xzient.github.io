@@ -144,7 +144,7 @@ let resumeData = {
     },
     {
       name: "project2",
-      description: "mobileapp",
+      description: "reasearchpaper",
       imgurl: "images/portfolio/coffee.jpg",
     },
     {

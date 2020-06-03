@@ -54,11 +54,11 @@ export default class Header extends Component {
                   <Skills />
                 </a>
               </li>
-              {/*<li>
+              <li>
                 <a className="smoothscroll" href="#portfolio">
                   <Works />
                 </a>
-              </li>*/}
+              </li>
 
               <li>
                 <a className="smoothscroll" href="#contact">
