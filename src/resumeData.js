@@ -127,6 +127,9 @@ let resumeData = {
       skillname: "Java",
     },
     {
+      skillname: "PHP",
+    },
+    {
       skillname: "C/C++",
     },
     {
