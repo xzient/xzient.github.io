@@ -386,16 +386,16 @@ ul#nav li.current a {
   border-radius: 3px 0 0 3px;
 }
 .python {
-  width: 85%;
+  width: 95%;
   -moz-animation: photoshop 2s ease;
   -webkit-animation: photoshop 2s ease;
 }
-.java {
-  width: 75%;
+.sql {
+  width: 80%;
   -moz-animation: photoshop 2s ease;
   -webkit-animation: photoshop 2s ease;
 }
-.php {
+.typescript {
   width: 60%;
   -moz-animation: photoshop 2s ease;
   -webkit-animation: photoshop 2s ease;
@@ -410,23 +410,23 @@ ul#nav li.current a {
   -moz-animation: photoshop 2s ease;
   -webkit-animation: photoshop 2s ease;
 }
-.matlab {
-  width: 32%;
+.r {
+  width: 40%;
   -moz-animation: photoshop 2s ease;
   -webkit-animation: photoshop 2s ease;
 }
-.photoshop {
-  width: 60%;
+.php {
+  width: 40%;
   -moz-animation: photoshop 2s ease;
   -webkit-animation: photoshop 2s ease;
 }
-.illustrator {
-  width: 55%;
+.java {
+  width: 40%;
   -moz-animation: illustrator 2s ease;
   -webkit-animation: illustrator 2s ease;
 }
-.wordpress {
-  width: 50%;
+.vba {
+  width: 35%;
   -moz-animation: wordpress 2s ease;
   -webkit-animation: wordpress 2s ease;
 }
@@ -563,8 +563,17 @@ ul#nav li.current a {
 }
 
 /* Portfolio Content */
+#portfolio-wrapper  {
+  margin-bottom: 36px;
+  display: flex;
+  justify-content: center;
+
+}
 #portfolio-wrapper .columns {
   margin-bottom: 36px;
+  color: #c411db;
+
+  
 }
 .portfolio-item .item-wrap {
   background: #fff;
@@ -580,6 +589,7 @@ ul#nav li.current a {
 .portfolio-item .item-wrap a {
   display: block;
   cursor: pointer;
+  
 }
 
 /* overlay */

@@ -49,6 +49,61 @@ const Skype = () => {
   const { t, i18n } = useTranslation();
   return <div>{t("skype.label")}</div>;
 };
+// Name
+const University1 = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("university1.label")}</div>;
+};
+const University2 = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("university2.label")}</div>;
+};
+const University3 = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("university3.label")}</div>;
+};
+
+// Specialization
+const University1Specialization = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("university1specialization.label")}</div>;
+};
+const University2Specialization = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("university2specialization.label")}</div>;
+};
+const University3Specialization = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("university3specialization.label")}</div>;
+};
+
+// Month
+const University1Month = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("university1month.label")}</div>;
+};
+const University2Month = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("university2month.label")}</div>;
+};
+const University3Month = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("university3month.label")}</div>;
+};
+
+// Achievement
+const University1Achievement = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("university1achievement.label")}</div>;
+};
+const University2Achievement = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("university2achievement.label")}</div>;
+};
+const University3Achievement = () => {
+  const { t, i18n } = useTranslation();
+  return <div>{t("university3achievement.label")}</div>;
+};
 
 let resumeData = {
   imagebaseurl: "https://xzient.github.io/",
@@ -71,35 +126,42 @@ let resumeData = {
       url: "http://github.com/xzient",
       className: "fa fa-github",
     },
-    {
-      name: "twitter",
-      url: "http://twitter.com/xzientarski",
-      className: "fa fa-twitter",
-    },
-    {
-      name: "medium",
-      url: "https://medium.com/@xavierzientarski",
-      className: "fa fa-medium",
-    },
+    // {
+    //   name: "twitter",
+    //   url: "http://twitter.com/xzientarski",
+    //   className: "fa fa-twitter",
+    // },
+    // {
+    //   name: "medium",
+    //   url: "https://medium.com/@xavierzientarski",
+    //   className: "fa fa-medium",
+    // },
   ],
   aboutme1: <AboutMe1 />,
   aboutme2: <AboutMe2 />,
-  aboutme3: <AboutMe3 />,
-  aboutme4: <AboutMe4 />,
+  // aboutme3: <AboutMe3 />,
+  // aboutme4: <AboutMe4 />,
   education: [
     {
-      UniversityName: "The LNM Insitute of Information Technology",
-      specialization: "Some specialization",
-      MonthOfPassing: "Aug",
-      YearOfPassing: "2020",
-      Achievements: "Some Achievements",
+      UniversityName: <University1/>,
+      specialization: <University1Specialization/>,
+      MonthOfPassing: <University1Month/>,
+      YearOfPassing: "2021",
+      Achievements: <University1Achievement/>,
     },
     {
-      UniversityName: "Some University",
-      specialization: "Some specialization",
-      MonthOfPassing: "Jan",
+      UniversityName: <University2/>,
+      specialization: <University2Specialization/>,
+      MonthOfPassing: <University2Month/>,
+      YearOfPassing: "2019",
+      Achievements: <University2Achievement/>,
+    },
+    {
+      UniversityName: <University3/>,
+      specialization: <University3Specialization/>,
+      MonthOfPassing: <University3Month/>,
       YearOfPassing: "2018",
-      Achievements: "Some Achievements",
+      Achievements: <University3Achievement/>,
     },
   ],
   work: [
@@ -124,42 +186,55 @@ let resumeData = {
       skillname: "Python",
     },
     {
-      skillname: "Java",
+      skillname: "SQL",
+    },
+    {
+      skillname: "Typescript",
+    },
+    {
+      skillname: "R",
     },
     {
       skillname: "PHP",
     },
     {
-      skillname: "C/C++",
+      skillname: "Java",
     },
     {
-      skillname: "MATLAB",
-    },
-    {
-      skillname: "OCaml",
+      skillname: "VBA",
     },
   ],
   portfolio: [
     {
-      name: "project1",
-      description: "mobileapp",
-      imgurl: "images/portfolio/retrocam.jpg",
+      name: "Dust Detection Camera",
+      description: "AI service",
+      imgurl: "images/portfolio/1_ajedrez.png",
+      link: "https://github.com/xzient/DustDetection",
     },
+    // {
+    //   name: "Mine detonation dust analysis",
+    //   description: "Data analysis service",
+    //   imgurl: "images/portfolio/coffee.jpg",
+    //   link: "",
+    // },
     {
-      name: "project2",
-      description: "reasearchpaper",
-      imgurl: "images/portfolio/coffee.jpg",
+      name: "Georgian Lexical Accent",
+      description: "Research Paper",
+      imgurl: "images/portfolio/georgian_2.png",
+      link: "https://www.semanticscholar.org/paper/Word-Stress-and-Phrase-Accent-in-Georgian-Borise-Zientarski/e11a00e4787d28c60b34563b0c90f427488dd3dd",
     },
-    {
-      name: "project3",
-      description: "mobileapp",
-      imgurl: "images/portfolio/origami.jpg",
-    },
-    {
-      name: "project4",
-      description: "mobileapp",
-      imgurl: "images/portfolio/console.jpg",
-    },
+    // {
+    //   name: "Georgian Lexical Accent",
+    //   description: "Research Paper",
+    //   imgurl: "images/portfolio/origami.jpg",
+    //   link: "https://www.semanticscholar.org/paper/Word-Stress-and-Phrase-Accent-in-Georgian-Borise-Zientarski/e11a00e4787d28c60b34563b0c90f427488dd3dd",
+    // },
+    
+    // {
+    //   name: "project4",
+    //   description: "mobileapp",
+    //   imgurl: "images/portfolio/console.jpg",
+    // },
   ],
   testimonials: [
     {

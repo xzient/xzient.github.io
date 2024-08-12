@@ -99,19 +99,23 @@ jQuery(document).ready(function ($) {
   /*	Modal Popup
  ------------------------------------------------------*/
 
-  $(".item-wrap a").magnificPopup({
-    type: "inline",
-    fixedContentPos: false,
-    removalDelay: 200,
-    showCloseBtn: false,
-    mainClass: "mfp-fade",
-  });
+  // $(".item-wrap a").magnificPopup({
+  //   type: "inline",
+  //   fixedContentPos: false,
+  //   removalDelay: 200,
+  //   showCloseBtn: false,
+  //   mainClass: "mfp-fade",
+  // });
 
-  $(document).on("click", ".popup-modal-dismiss", function (e) {
-    e.preventDefault();
-    $.magnificPopup.close();
+  // $(document).on("click", ".popup-modal-dismiss", function (e) {
+  //   e.preventDefault();
+  //   $.magnificPopup.close();
+  // });
+  $("a.social_share_link").on("click", function() {
+    var share_link = $(this).prop('rel');
+    console.log(share_link);
+  window.open(share_link, "_blank");
   });
-
   /*----------------------------------------------------*/
   /*	Flexslider
  /*----------------------------------------------------*/

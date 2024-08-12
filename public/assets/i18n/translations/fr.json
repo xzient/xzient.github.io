@@ -3,8 +3,8 @@
   "title.label": "Dévéloppeur en AI et TALN",
   "role.label": "Intelligence artificielle, traitement automatique du langage naturel et  linguistique",
   "roledescription.label": "Je suis un linguiste computationnel intéressé par la protection de l’environnement, la préservation des langues et l’intelligence artificielle.",
-  "aboutmetext1.label": "Bonjour! Je m’appelle Xavier. Je suis un linguiste computationnel. Ainsi donc, j’ai de l’expérience en linguistique et en informatique. Je suis bachelier en linguistique et informatique de l’Université du Maryland aux É.-U. Je suis présentement un étudiant de maîtrise en informatique avec une approche en intelligence artificielle à l’Université Laval de Québec.",
-  "aboutmetext2.label": "En ce qui concerne l’informatique, je programme souvent avec les langages Java et Python. Pour Python, j’ai travaillé avec des bibliothèques telles que Pandas, Pytorch, et NLTK. Pour le développement frontal, j’ai réalisé quelques applications Android en utilisant Android Studio. Je suis aussi attiré par les langages fonctionnels. Pendant mes études de baccalauréat, j’ai eu la possibilité d’apprendre l'OCaml, ce qui m’a aidé à apprécier la programmation fonctionnelle.",
+  "aboutmetext1.label": "Bonjour. Je m'appelle Xavier. Après avoir obtenu mes licences en Informatique et Linguistique à l'Université du Maryland, j'ai fait une maîtrise en Informatique avec une spécialisation en Intelligence Artificielle à l'Université Laval à Québec. J'habite actuellement à Montréal, QC.",
+  "aboutmetext2.label": "J'ai principalement travaillé avec Python et certaines de ses bibliothèques variées. Parmi les bibliothèques que j'ai utilisées : Pandas, PyTorch, TensorFlow, NLTK, PyPlot, NumPy, PIL, Seaborn, Plotly et Scikit-Learn.",
   "aboutmetext3.label": "Pour ce qui concerne la linguistique, j’ai pu étudier et décortiquer la grammaire de deux langues mayas : l’ixil et le kaqchikel. J’ai aussi travaillé avec la langue géorgienne pendant deux ans. Ce qui m’a amené à écrire un article à propos de l’accent lexical géorgien. Je suis attiré par la préservation des langues amérindiennes. Je suis actuellement à la recherche des projets liés aux langues inuits ou à celles des langues dans les Premières Nations du Canada.",
   "aboutmetext4.label": "Quand je ne travaille pas, j’ai une vie consciente des affaires environnementales. Je fais de mon mieux pour réduire mon empreinte écologique. J’adore amorcer de petits projets liés à la préservation de l’environnement, la permaculture, la vie zéro-déchet, le minimalisme et le véganisme. Je suis ce mode de vie en respectant ceux qui ont des modes de vie et idéaux complètement différents des miens. On est tous ensemble pour contribuer dans le monde des manières distinctes.",
   "home.label": "ACCUEIL",
@@ -12,10 +12,26 @@
   "skills.label": "COMPÉTENCES",
   "works.label": "PORTFOLIO",
   "contact.label": "COORDONNÉES",
+  "education.label": "ÉDUCATION",
   "contactdetails.label": "Coordonnées",
   "aboutme.label": "Qui suis-je?",
   "skype.label": "Skype : xavier.zientarski",
   "address.label": "Montréal, Canada",
   "skillstext.label": "En plus des compétences indiquées ci-dessous, j’ai déjà utilisé R et SQL pour des projets de recherches. Je connais aussi LaTeX que j’utilise quand je dois rédiger des rapports pour l’université. Finalement, j’ai travaillé avec Praat et Elan pour l’analyse phonologique et linguistique.",
-  "portfolio.label": "Jetez un coup d'œil à mes projets!"
+  "portfolio.label": "Jetez un coup d'œil à mes projets!",
+  "university1.label": "Université Laval",
+  "university2.label": "Université du Maryland",
+  "university3.label": "Université du Maryland",
+
+  "university1specialization.label": "Maîtrise en Informatique",
+  "university2specialization.label": "Baccalauréat en informatique",
+  "university3specialization.label": "Baccalauréat en linguistique",
+
+  "university1month.label": "Août",
+  "university2month.label": "Mai",
+  "university3month.label": "Décembre",
+
+  "university1achievement.label": "Le principal objectif de ce programme comprenait le travail avec l'IA, l'apprentissage automatique, les données massives et la statistique.",
+  "university2achievement.label": "Certains cours pertinents comprenaient : Introduction au traitement du langage naturel, Algorithmes, Conception et algorithmes informatiques et Introduction à l'IA.",
+  "university3achievement.label": "Le programme comprenait la linguistique computationnelle, un travail de terrain sur le géorgien pour lequel un article scientifique a été rédigé et un cours sur les langues mayas."
 }

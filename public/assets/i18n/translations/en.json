@@ -1,15 +1,16 @@
 {
   "name.label": "Xavier Zientarski",
   "title.label": "AI and NLP engineer",
-  "role.label": "Natural Language Processing, Artificial Intelligence, and Linguistics",
-  "roledescription.label": "I'm a computational linguist who cares about the environment, language preservation, and artificial intelligence.",
-  "aboutmetext1.label": "Hello. My name is Xavier. After completing my bachelor’s degrees in Computer Science and Linguistics at the University of Maryland, I have decided to pursue a master’s degree in Computer Science with a focus on AI at Laval University in Quebec City.",
-  "aboutmetext2.label": "When it comes to computer science, I have mainly worked with Java and Python. Within Python, I have used different libraries such as Pandas, PyTorch, NLTK, OpenCV, and PyPlot. I have also used other libraries for computer vision, machine learning, and for data analysis. I have done both front end and back end programming. For front end, I have focused on creating simple Android apps with Android Studio. I am also interested in functional languages. While studying at Maryland, I was exposed to Ocaml, which really helped me admire functional programming.",
+  "role.label": "Data Science, Artificial Intelligence",
+  "roledescription.label": "I'm a data scientist who loves artificial intelligence, data, linguistics, and generative art.",
+  "aboutmetext1.label": "Hello. My name is Xavier. After completing my bachelor’s degrees in Computer Science and Linguistics at the University of Maryland, I pursued a master’s degree in Computer Science with a focus on AI at Laval University in Quebec City. I currently live in Montreal, QC.",
+  "aboutmetext2.label": "I have mostly worked on Python and some of its diverse libraries. Some of the libraries I have used are: Pandas, PyTorch, TensorFlow, NLTK, PyPlot, NumPy, PIL, Seaborn, Plotly, and Scikit‑Learn.",
   "aboutmetext3.label": "For Linguistics. I have worked with two Mayan languages: Ixil and Kaqchikel. I have worked on Georgian for two years. This work led me to write a research paper on Georgian lexical stress. I have a big interest for the preservation of Amerindian languages. Currently, I am looking projects related to Inuit languages or First Nation languages in Canada.",
   "aboutmetext4.label": "In my everyday life, I keep an environmentally conscious life. I do my best to reduce my carbon footprint as I enjoy embarking on new projects related to environment preservation. I am also interested in permaculture, minimalism, zero waste lifestyle, and veganism. This is a life style that is suited to my ideals. For this reason, I treat people having different ideals and lifestyles with the upmost respect and equality. Not everyone has the same life priorities, and I am here to learn from others as I am to contribute with the little knowledge I have to build a better world.",
   "home.label": "HOME",
   "about.label": "ABOUT",
   "skills.label": "SKILLS",
+  "education.label": "EDUCATION",
   "works.label": "WORKS",
   "contact.label": "CONTACT",
   "aboutme.label": "About Me",
@@ -17,5 +18,20 @@
   "address.label": "Montreal, Canada",
   "skype.label": "Skype: xavier.zientarski",
   "skillstext.label": "Besides the skills shown below, I have some experience with R and SQL. I have used these for data analysis while doing research. I also know LaTeX which I constantly use for writing reports and homework at school. Lastly. I have used Praat and Elan for phonological analysis in linguistics.",
-  "portfolio.label": "Here are some of my projects!"
+  "portfolio.label": "Here are some of my projects!",
+  "university1.label": "Université Laval",
+  "university2.label": "University of Maryland",
+  "university3.label": "Université of Maryland",
+
+  "university1specialization.label": "Master of Computer Science",
+  "university2specialization.label": "Bachelor of Computer Science",
+  "university3specialization.label": "bachelor of Linguistics",
+
+  "university1month.label": "August",
+  "university2month.label": "May",
+  "university3month.label": "December",
+
+  "university1achievement.label": "The main focus of this program included working with AI, ML, big data, and statistics.",
+  "university2achievement.label": "Some relevant courses included: Intro to Natural Language Processing, Algorithms, Design & Computer Algorithms, and Intro to AI.",
+  "university3achievement.label": "The program included Computational Linguistics, Field Work on Georgian for which a scientific paper was written, and a Mayan Languages course."
 }

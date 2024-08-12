@@ -3,13 +3,14 @@
   "title.label": "Ingeniero en IA y PLN",
   "role.label": "Inteligencia Artificial, Procesamiento de Lenguajes Naturales y Lingüística",
   "roledescription.label": "Soy un lingüísta computacional que se preocupa por el medio ambiente, la inteligencia artificial y la preservación de idiomas.",
-  "aboutmetext1.label": "¡Hola! Me llamo Xavier. Soy un boliviano que tiene experiencia en lingüística e informática. Tengo licenciaturas en lingüística e informática de la Universidad de Maryland en College Park, Maryland. Actualmente estoy en el proceso de conseguir una maestría en informática con enfoque en inteligencia artificial en la Universidad Laval en la ciudad de Quebec.",
-  "aboutmetext2.label": "Del lado informático. He trabajado bastante con Java y Python. En Python, tengo experiencia usando las bibliotecas tales como Pandas, PyTorch, y NLTK. Tengo experiencia creando aplicaciones con Android Studio. También tengo un interés por los lenguajes funcionales. Durante mis estudios en licenciatura, tuve la oportunidad de aprender OCaml. Estuve fascinado por la lógica y el modo de empleo en la programación funcional.",
+  "aboutmetext1.label": "Hola. Me llamo Xavier. Después de completar mis licenciaturas en Informática y Lingüística en la Universidad de Maryland, realicé una maestría en Informática con un enfoque en Inteligencia Artificial en la Universidad Laval en la Ciudad de Quebec. Actualmente vivo en Montreal, QC.",
+  "aboutmetext2.label": "He trabajado principalmente con Python y algunas de sus diversas bibliotecas. Algunas de las bibliotecas que he utilizado son: Pandas, PyTorch, TensorFlow, NLTK, PyPlot, NumPy, PIL, Seaborn, Plotly y Scikit-Learn.",
   "aboutmetext3.label": "Del lado lingüístico. Tengo experiencia analizando e investigando dos idiomas mayas: ixil y kaqchikel. También trabajé por dos años con el idioma georgiano del cual pude publicar un articulo relacionado con el acento léxico en georgiano. Tengo un interés por la preservación de idiomas amerindios. Actualmente estoy en la búsqueda de proyectos relacionados con idiomas inuit o idiomas de Primeras Naciones en Canadá.",
   "aboutmetext4.label": "En mi vida cotidiana, mantengo una vida consciente al medio ambiente tratando de reducir mi huella de carbono lo más posible. Me gusta emprender proyectos relacionados al cuidado del medio ambiente, a la permacultura, al minimalismo, a la vida cero basura y al veganismo. Todo esto con respeto mutuo y equidad social a aquellas personas que no tienen los mismos ideales o estilos de vida. Estamos todos juntos acá.",
   "home.label": "PORTADA",
   "about.label": "¿Quién soy?",
   "skills.label": "CAPACIDADES",
+  "education.label": "EDUCACIÓN",
   "works.label": "PORTAFOLIO",
   "contact.label": "CONTACTO",
   "contactdetails.label": "Información de Contacto",
@@ -17,5 +18,20 @@
   "skype.label": "Skype: xavier.zientarski",
   "address.label": "Montreal, Canadá",
   "skillstext.label": "A parte de las capacidades mostradas debajo, tengo experiencia con R y SQL. Trabajé con estos haciendo investigación. También sé LaTeX, con el cual escribo bastantes reportes y ensayos universitarios. Por último, tengo experiencia usando Praat y Elan para análisis fonológico en lingüística.",
-  "portfolio.label": "¡Vea un par de proyectos míos!"
+  "portfolio.label": "¡Vea un par de proyectos míos!",
+  "university1.label": "Universidad Laval",
+  "university2.label": "Universidad de Maryland",
+  "university3.label": "Universidad de Maryland",
+
+  "university1specialization.label": "Maestría en informática",
+  "university2specialization.label": "Licenciatura en informática",
+  "university3specialization.label": "Licenciatura en lingüística",
+
+  "university1month.label": "Agosto",
+  "university2month.label": "Mayo",
+  "university3month.label": "Diciembre",
+
+  "university1achievement.label": "El principal objetivo de este programa incluía el trabajo con IA, aprendizaje automático, grandes datos y estadística.",
+  "university2achievement.label": "Algunos cursos relevantes incluían: Introducción al procesamiento del lenguaje natural, Algoritmos, Diseño y algoritmos informáticos y Introducción a la IA.",
+  "university3achievement.label": "El programa incluía lingüística computacional, trabajo de campo sobre el georgiano para el cual se redactó un artículo científico y un curso sobre lenguas mayas."
 }
